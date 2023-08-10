@@ -2,14 +2,14 @@
   "pricing": "Free",
   "name": "adhkari",
   "displayName": "adhkari",
-  "description": "reminde you of real job",
+  "description": "Remindes you of your real job.",
   "publisher": "ryanait",
   "repository": {
     "type": "git",
     "url": "https://github.com/Ryan7AIT/adhkari"
   },
   "icon": "icon.jpg",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.75.0"
   },
